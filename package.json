@@ -1,0 +1,18 @@
+{
+  "name": "node_js_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_event.js",
+  "dependencies": {
+    "deep-diff": "^1.0.2",
+    "upper-case": "^1.1.3",
+    "yaml": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
